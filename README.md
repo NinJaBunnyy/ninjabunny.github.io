@@ -1,16 +1,1 @@
-
-<html> 
-<h1>
-hey, im shashank 
-</h1>
-<body> 
-<h2> about me</h2>
-<p> 
-i like playing video games
-</p>
-<h2> what i am playing</h2>
-<p>
-im obsessed with mlbb and i like playing it
-</p>
-</body>
-</html> 
+still a readme file
